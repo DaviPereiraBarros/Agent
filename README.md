@@ -6,7 +6,7 @@ Landing Page para uma agência de Marketing com formulário conectado a uma API 
 
 # Descrição
 
-Utilizei o projeto como base para aplicar as Stacks citadas e aplicar conceito do desenvolvimento web.
+Utilizei o projeto como base para aplicar as Stacks citadas e ampliar conceitos do desenvolvimento web.
 Projeto pode ser utilizado pelo Desktop ou Smartphone.
 
 
@@ -16,6 +16,12 @@ Projeto pode ser utilizado pelo Desktop ou Smartphone.
 **Front-end:** React, Next, TypeScript e TailwindCSS
 
 **Back-end:** Node
+
+
+
+## Stack utilizada
+
+**Bibliotecas:** Yup, Formik, EmailJs e Axios
 
 
 
