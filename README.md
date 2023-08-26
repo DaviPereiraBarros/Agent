@@ -1,1 +1,1 @@
-<img src="/assets/img/arquivo.gif">
+<img src="/assets/agência.svg">
