@@ -1,6 +1,6 @@
 # Agent
 
-Uma Landing Page para uma agência de Marketing com formulário conectado a uma API de e-mail.
+Landing Page para uma agência de Marketing com formulário conectado a uma API de e-mail.
 
 
 # Descrição
