@@ -19,9 +19,9 @@ Projeto pode ser utilizado pelo Desktop ou Smartphone.
 
 
 
-## Stack utilizada
+## Bibliotecas
 
-**Bibliotecas:** Yup, Formik, EmailJs e Axios
+Yup, Formik, EmailJs e Axios
 
 
 
