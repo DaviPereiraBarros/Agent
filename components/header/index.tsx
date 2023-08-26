@@ -18,7 +18,7 @@ export default function Header(){
         </div>
 
         <div className='max-sm:hidden' id='action'>
-            <Link href={'/#contact'}><Button title='Fale conosco' kind='bg-green-color' type={''}></Button></Link>
+            <Link href={'/#contact'}><Button title='Fale conosco' kind='bg-green-color' type={'button'}></Button></Link>
         </div>
 
     </div>

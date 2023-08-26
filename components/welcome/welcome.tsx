@@ -13,7 +13,7 @@ export default function Welcome()
                 </p>
                 
                 <div className="max-sm:ml-[-100px]">
-                <Button title="Aumentar vendas" kind="bg-gray-color"/>
+                <Button title="Aumentar vendas" kind="bg-gray-color" type={"button"}/>
                 </div>
 
             </div>

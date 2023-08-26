@@ -14,7 +14,7 @@ export default function FailModal({closeModal}:ModalProps){
                 </div>
                 <p className="text-3xl mt-6 text-gray-400">Não foi possívelenviar no momento, tente novamente mais tarde.</p>
                 <div className="w-full mt-[56px] w-max[304px] h-16:" onClick={closeModal}>
-                    <Button title={"fechar"} kind={""} type={""}></Button>
+                    <Button title={"fechar"} kind={""} type="button"></Button>
                 </div>
             </div>
         </div>
